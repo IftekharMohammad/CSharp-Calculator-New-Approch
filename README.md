@@ -1,2 +1,2 @@
 # CSharp-Calculator-New-Approch
-A simple C# calculator with easier UI
+A simple C# calculator with more user friendly UI
